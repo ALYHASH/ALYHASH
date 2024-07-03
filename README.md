@@ -6,7 +6,7 @@ I'm ALY SHEHATA, an AI Engineer with a passion for turning complex problems into
 
 <div>
   <a href="https://x.com/Aly__Hassan__">
-    <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/v1720014368/X.jpg" alt="Twitter" width="60"/>
+    <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/v1720014514/X.png" alt="Twitter" width="60"/>
   </a>
 </div>
 <div>
