@@ -1,8 +1,13 @@
-## **HI THERE!**
-**GOOD TO SEE U HERE!**
-I'm ALY SHEHATA, an AI Engineer with a passion for turning complex problems into innovative solutions through the power of artificial intelligence. Here, I’ll be sharing insights, projects, and the latest trends in AI and machine learning.
+## __HI THERE!__
+### __GOOD TO SEE U HERE!__ <br>
+I'm __ALY SHEHATA__, an AI Engineer 
+Here, I’ll be sharing insights, projects, and the latest trends in __AI__ , __MachineLearning__ and __Deeb Learning__.
 
-#AI #MachineLearning #Deeb Learning  #AI Engineer
+- __AI__
+- __AI Engineer__
+- __MachineLearning__
+- __Deeb Learning__
+
 
 
 <div>
