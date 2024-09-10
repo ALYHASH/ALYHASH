@@ -17,7 +17,8 @@ Here, I’ll be sharing insights, projects, and the latest trends in __AI__ , __
 </div>
 <div>
   <a href="https://x.com/Aly__Hassan__">
-    <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/v1722149647/X.png" alt="Twitter" width="60"/>
+    <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/f_auto,q_auto/K" alt="Twitter" width="60"/>
+
   </a>
 </div>
 <div>
