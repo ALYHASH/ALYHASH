@@ -3,12 +3,11 @@
 I'm __ALY SHEHATA__, an AI Engineer 
 Here, I’ll be sharing insights, projects, and the latest trends in __AI__ , __MachineLearning__ and __Deeb Learning__.
 
-- __AI__
-- __AI Engineer__
-- __MachineLearning__
-- __Deeb Learning__
+__AI Engineer__ | __Kaggle compition contributer__
 
 
+ - __MachineLearning__ 
+ - __Deeb Learning__
 
 <div>
  <a href="https://www.linkedin.com/in/aly-hassan-0b35601b8/">
