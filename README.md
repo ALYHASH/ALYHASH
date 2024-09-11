@@ -5,8 +5,8 @@ I'm __ENG\ ALY SHEHATA__
 __I AM an AI Engineer | Kaggle Competition Contributor__
 
 Here, I’ll be sharing insights, projects, and the latest trends in
- - __MachineLearning__ 
- - __Deeb Learning__
+ - __Machine Learning__ 
+ - __Deep Learning__
  - __Computer vision__
  - __Data Science__
  - __CNN__
