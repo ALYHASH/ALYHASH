@@ -1,14 +1,20 @@
 ## __HI THERE!__
 ### __GOOD TO SEE U HERE!__ <br>
-I'm __ALY SHEHATA__, an AI Engineer 
-Here, I’ll be sharing insights, projects, and the latest trends in __AI__ , __MachineLearning__ and __Deeb Learning__.
+I'm __ENG\ ALY SHEHATA__
 
-__AI Engineer__ | __Kaggle compition contributer__
+__I AM an AI Engineer | Kaggle Competition Contributor__
 
-
+Here, I’ll be sharing insights, projects, and the latest trends in
  - __MachineLearning__ 
  - __Deeb Learning__
+ - __Computer vision__
+ - __Data Science__
+ - __CNN__
+ - __RNN__
+ - __NLP__
+ - __GAN__
 
+   
 <div>
  <a href="https://www.linkedin.com/in/aly-hassan-0b35601b8/">
     <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/v1722150111/in.png" alt="LinkedIn" width="60"/>
