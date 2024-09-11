@@ -24,7 +24,7 @@ My detail-oriented and collaborative approach makes me a valuable asset in the f
 
 To explore my projects, check my __profiles__:
 <div>
- <a href="https://www.linkedin.com/in/aly-hassan-0b35601b8/">
+ <a href="https://www.linkedin.com/in/aly-shehata/">
     <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/v1722150111/in.png" alt="LinkedIn" width="60"/>
   </a>
 </div>
