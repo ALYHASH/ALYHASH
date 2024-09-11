@@ -1,6 +1,6 @@
 ## __HI THERE!__
-### __GOOD TO SEE U HERE!__ <br>
-I'm __ENG\ ALY SHEHATA__
+### __GOOD TO SEE U HERE!__ 
+__I AM ENG\ ALY SHEHATA__
 
 __I AM an AI Engineer | Kaggle Competition Contributor__
 
@@ -14,7 +14,15 @@ Here, I’ll be sharing insights, projects, and the latest trends in
  - __NLP__
  - __GAN__
 
-   
+I excel at building advanced AI solutions with Python, using popular frameworks like
+ - __TensorFlow__
+ - __PyTorch__
+ - __scikit-learn__
+
+I'm skilled in problem-solving and innovative thinking, ensuring high-quality, scalable results. I work well in teams, communicate complex ideas clearly, and stay up to date with the latest technology trends.
+My detail-oriented and collaborative approach makes me a valuable asset in the field of artificial intelligence.
+
+To explore my projects, check my __profiles__:
 <div>
  <a href="https://www.linkedin.com/in/aly-hassan-0b35601b8/">
     <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/v1722150111/in.png" alt="LinkedIn" width="60"/>
