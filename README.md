@@ -36,7 +36,7 @@ To explore my projects, check my __profiles__:
 </div>
 <div>
   <a href="https://www.kaggle.com/alyhassanshehata">
-    <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/v1750671299/K.png" alt="Kaggle" width="62"/>
+    <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/v1750671475/K.png" alt="Kaggle" width="62"/>
   </a>
 </div>
 <div>
