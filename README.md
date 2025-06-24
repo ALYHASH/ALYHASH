@@ -33,7 +33,7 @@ I’m passionate about building **accessible, impactful technologies**—especia
 
 | 🗂️ Project                                  | 🚀 Description                                                    | 🔗 Link                                                   |
 |---------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------|
-| 🎥 **White Stick - AI Vision Assistant**    | Wearable AI vision system for visually impaired users. YOLOv8 + Whisper + LLaVA. | [View Repository](https://github.com/your-username/White-Stick-AI-Vision-Assistant) |
+| 🎥 **White Stick - AI Vision Assistant**    | Wearable AI vision system for visually impaired users. YOLOv8 + Whisper + LLaVA. | [View Repository](https://github.com/ALYHASH/white-stick-vision-assistant) |
 | 🧠 **Medical Image Segmentation (U-Net)**   | Brain tumor segmentation using U-Net deep learning architecture.  | [View Repository](https://github.com/your-username/Medical-Imaging) |
 | 📄 **PDF Chatbot with NLP**                 | Upload PDFs, ask questions, get answers — all with a Streamlit-powered NLP interface. | [View Repository](https://github.com/your-username/PDF-Chatbot-NLP) |
 | 📸 **Custom Object Detection (YOLO)**       | Fine-tuned YOLO models for specialized object detection tasks.    | [View Repository](https://github.com/your-username/Custom-Object-Detection-YOLO) |
