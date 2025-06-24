@@ -1,43 +1,47 @@
-<h1 align="center">👋 Welcome to My GitHub</h1>
+<h1 align="center">👋 Welcome to Aly Shehata's GitHub</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-Machine%20Learning-blue.svg" />
-  <img src="https://img.shields.io/badge/Kaggle-Contributor-brightgreen.svg" />
-  <img src="https://img.shields.io/badge/Python-Expert-yellow.svg" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-Computer%20Vision-blue.svg" />
+  <img src="https://img.shields.io/badge/Kaggle-Expert-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/Embedded%20AI-Developer-orange.svg" />
+  <img src="https://img.shields.io/badge/Python-Professional-yellow.svg" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-Hi, I’m **Aly Shehata**, an **AI Engineer** passionate about developing impactful solutions with **Machine Learning**, **Deep Learning**, and **Computer Vision**. I’m actively building AI systems for **healthcare, accessibility, and automation**, with practical deployments in both research and real-world projects.
+Hi, I’m **Aly Shehata**, an **AI Engineer** specialized in developing **real-time AI solutions** combining **Machine Learning, Deep Learning, NLP**, and **Embedded Systems**.  
+I’m passionate about building **accessible, impactful technologies**—especially for healthcare and assistive devices.
 
-- 🎓 **Graduation Project:** AI-Based Wearable Vision Assistant **(White Stick)**
-- 🏆 **Kaggle Competitions Contributor**
-- 🚀 Always learning & innovating
+- 🎓 **Graduation Project:** [`White Stick`](https://github.com/your-username/White-Stick-AI-Vision-Assistant) — *AI-Based Wearable Vision Assistant for Visually Impaired Users*  
+- 🏆 **Kaggle Expert** with contributions to data science competitions  
+- 🚀 Always learning, building, and sharing knowledge.
 
 ---
 
-## 🔧 Technical Skills
+## ⚙️ Technical Toolbox
 - **Languages:** Python, SQL, Bash
-- **Frameworks:** TensorFlow, PyTorch, Scikit-learn
-- **Specialties:** CNNs, RNNs, GANs, NLP, OCR, YOLO, Transformers
-- **Tools:** Docker, Streamlit, FastAPI, Selenium
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, NLTK, spaCy
+- **Specialties:** YOLOv8, Whisper, LLaVA, CNNs, RNNs, OCR, Transformers, VAEs, GANs
+- **Embedded Systems:** AMB82-MINI, Raspberry Pi, IP Cameras, pvPorcupine (Wake Word)
+- **Tools & Deployment:** Docker, Streamlit, FastAPI, Git/GitHub, Selenium
+- **Practices:** MLOps, Model Quantization, Edge Optimization
 
 ---
 
 ## 📂 Featured Projects
 
-| Project                                         | Description                                                             | Link                               |
-|-------------------------------------------------|-------------------------------------------------------------------------|------------------------------------|
-| 🎥 **White Stick - AI Vision Assistant**         | Wearable assistive AI for visually impaired users (YOLOv8, Whisper, LLaVA) | 🔗 [View Repo](https://github.com/your-username/White-Stick-AI-Vision-Assistant) |
-| 🖼️ **Face Detection & Recognition**              | Real-time detection with Faster R-CNN and FaceNet                       | 🔗 [View Repo](https://github.com/your-username/Face-Detection-Recognition) |
-| 🧠 **Medical Image Segmentation (U-Net)**        | Brain tumor & kidney segmentation with deep learning                    | 🔗 [View Repo](https://github.com/your-username/Medical-Imaging) |
-| 📄 **PDF Chatbot with NLP**                      | Chat with your PDFs using Streamlit interface                           | 🔗 [View Repo](https://github.com/your-username/PDF-Chatbot-NLP) |
-| 📦 **AI Model Deployment with Docker**           | Containerized ML models for production deployment                       | 🔗 [View Repo](https://github.com/your-username/ML-Model-Deployment-Docker) |
+| 🗂️ Project                                  | 🚀 Description                                                    | 🔗 Link                                                   |
+|---------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------|
+| 🎥 **White Stick - AI Vision Assistant**    | Wearable AI vision system for visually impaired users. YOLOv8 + Whisper + LLaVA. | [View Repository](https://github.com/your-username/White-Stick-AI-Vision-Assistant) |
+| 🧠 **Medical Image Segmentation (U-Net)**   | Brain tumor segmentation using U-Net deep learning architecture.  | [View Repository](https://github.com/your-username/Medical-Imaging) |
+| 📄 **PDF Chatbot with NLP**                 | Upload PDFs, ask questions, get answers — all with a Streamlit-powered NLP interface. | [View Repository](https://github.com/your-username/PDF-Chatbot-NLP) |
+| 📸 **Custom Object Detection (YOLO)**       | Fine-tuned YOLO models for specialized object detection tasks.    | [View Repository](https://github.com/your-username/Custom-Object-Detection-YOLO) |
+| 🐍 **AI Model Deployment with Docker**      | End-to-end containerized deployment of machine learning models.   | [View Repository](https://github.com/your-username/ML-Model-Deployment-Docker) |
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/aly-shehata/">
     <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/v1722150111/in.png" alt="LinkedIn" width="50"/>
@@ -54,4 +58,5 @@ Hi, I’m **Aly Shehata**, an **AI Engineer** passionate about developing impact
 
 ---
 
-⭐ **Check out my repositories to explore more!**
+⭐ **Check out my repositories to explore more!**  
+📧 *Feel free to reach out for collaboration, contributions, or just to say hi!*
