@@ -1,42 +1,57 @@
-## __HI THERE!__
-### __GOOD TO SEE U HERE!__ 
-__I AM ENG\ ALY SHEHATA__
+<h1 align="center">👋 Welcome to My GitHub</h1>
 
-__I AM an AI Engineer | Kaggle Competition Contributor__
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-Machine%20Learning-blue.svg" />
+  <img src="https://img.shields.io/badge/Kaggle-Contributor-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/Python-Expert-yellow.svg" />
+</p>
 
-Here, I’ll be sharing insights, projects, and the latest trends in
- - __Machine Learning__ 
- - __Deep Learning__
- - __Computer vision__
- - __Data Science__
- - __CNN__
- - __RNN__
- - __NLP__
- - __GAN__
+---
 
-I excel at building advanced AI solutions with Python, using popular frameworks like
- - __TensorFlow__
- - __PyTorch__
- - __scikit-learn__
+## 👨‍💻 About Me
+Hi, I’m **Aly Shehata**, an **AI Engineer** passionate about developing impactful solutions with **Machine Learning**, **Deep Learning**, and **Computer Vision**. I’m actively building AI systems for **healthcare, accessibility, and automation**, with practical deployments in both research and real-world projects.
 
-I'm skilled in problem-solving and innovative thinking, ensuring high-quality, scalable results. I work well in teams, communicate complex ideas clearly, and stay up to date with the latest technology trends.
-My detail-oriented and collaborative approach makes me a valuable asset in the field of artificial intelligence.
+- 🎓 **Graduation Project:** AI-Based Wearable Vision Assistant **(White Stick)**
+- 🏆 **Kaggle Competitions Contributor**
+- 🚀 Always learning & innovating
 
-To explore my projects, check my __profiles__:
-<div>
- <a href="https://www.linkedin.com/in/aly-shehata/">
-    <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/v1722150111/in.png" alt="LinkedIn" width="60"/>
+---
+
+## 🔧 Technical Skills
+- **Languages:** Python, SQL, Bash
+- **Frameworks:** TensorFlow, PyTorch, Scikit-learn
+- **Specialties:** CNNs, RNNs, GANs, NLP, OCR, YOLO, Transformers
+- **Tools:** Docker, Streamlit, FastAPI, Selenium
+
+---
+
+## 📂 Featured Projects
+
+| Project                                         | Description                                                             | Link                               |
+|-------------------------------------------------|-------------------------------------------------------------------------|------------------------------------|
+| 🎥 **White Stick - AI Vision Assistant**         | Wearable assistive AI for visually impaired users (YOLOv8, Whisper, LLaVA) | 🔗 [View Repo](https://github.com/your-username/White-Stick-AI-Vision-Assistant) |
+| 🖼️ **Face Detection & Recognition**              | Real-time detection with Faster R-CNN and FaceNet                       | 🔗 [View Repo](https://github.com/your-username/Face-Detection-Recognition) |
+| 🧠 **Medical Image Segmentation (U-Net)**        | Brain tumor & kidney segmentation with deep learning                    | 🔗 [View Repo](https://github.com/your-username/Medical-Imaging) |
+| 📄 **PDF Chatbot with NLP**                      | Chat with your PDFs using Streamlit interface                           | 🔗 [View Repo](https://github.com/your-username/PDF-Chatbot-NLP) |
+| 📦 **AI Model Deployment with Docker**           | Containerized ML models for production deployment                       | 🔗 [View Repo](https://github.com/your-username/ML-Model-Deployment-Docker) |
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/aly-shehata/">
+    <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/v1722150111/in.png" alt="LinkedIn" width="50"/>
   </a>
-</div>
-<div>
+  &nbsp;&nbsp;
   <a href="https://x.com/Aly__Hassan__">
-    <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/f_auto,q_auto/K" alt="Twitter" width="60"/>
-
+    <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/f_auto,q_auto/K" alt="Twitter" width="50"/>
   </a>
-</div>
-<div>
+  &nbsp;&nbsp;
   <a href="https://www.kaggle.com/alyhassanshehata">
-    <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/v1750671475/K.png" alt="Kaggle" width="62"/>
+    <img src="https://res.cloudinary.com/ddqdqrrgt/image/upload/v1750671475/K.png" alt="Kaggle" width="52"/>
   </a>
-</div>
-<div>
+</p>
+
+---
+
+⭐ **Check out my repositories to explore more!**
